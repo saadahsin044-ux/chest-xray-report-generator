@@ -1,9 +1,0 @@
-streamlit
-torch
-torchvision
-timm
-transformers
-Pillow
-pandas
-numpy
-requests
